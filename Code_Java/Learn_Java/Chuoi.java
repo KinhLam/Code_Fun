@@ -19,4 +19,4 @@ public class Chuoi {
         System.out.println("Double: " + d);
         System.out.println("Int: " + i);
     }
-}
+}   
